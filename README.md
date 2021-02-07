@@ -1,7 +1,7 @@
 # Pewlett Hackard Analysis
 
 ## Overview of the analysis
-The company Pewlett Hackard is preparing to employees from the baby boom era's retirement which has been called the "silver tsunami". In order to prepare management wants to determine how many employees are about to retire in role and how many employees are eligible to be part of the mentorship program.
+The company Pewlett Hackard is preparing to employees from the baby boom era's retirement which has been called the "silver tsunami". In order to prepare management wants to determine how many employees are about to retire in each role and how many employees are eligible to be part of the mentorship program.
 
 ## Results: 
 - Senior roles(engineer and staff) will experience the most loss of employees
