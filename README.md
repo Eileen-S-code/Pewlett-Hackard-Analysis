@@ -7,7 +7,7 @@ The company Pewlett Hackard is preparing to employees from the baby boom era's r
 - Senior roles(engineer and staff) will experience the most loss of employees
 - There are very little managers compared to the number of staff
 - Since Senior Engineers could also mentor assistant engineers the only category with less than 100 mentors would be technique leaders
--There are no managers that are eligilible for the mentorship program
+- There are no managers that are eligilible for the mentorship program
 
 ## Summary: 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
